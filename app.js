@@ -15,7 +15,7 @@
 // var z = y+x
 // alert(z);
 
-var f = 10;
+var f = 20;
 var g = "20" ;
 var h = f+g;
 alert(h); 
